@@ -21,8 +21,9 @@ Lance le script avec Python :
 ```Bash
 
 python nom_du_script.py
-Appuie sur la touche 'q' pour arrêter le programme.
 ```
+Appuie sur la touche 'q' pour arrêter le programme.
+
 
 
 🎮 Guide des Commandes

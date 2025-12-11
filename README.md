@@ -35,7 +35,7 @@ Bouger le curseur : Lève l'Index et déplace ta main.
 Cliquer (Clic Auto) : Arrête de bouger ton doigt sur un bouton. Attends 1 seconde (le cercle vert se remplit) et ça clique tout seul.
 
 👈 Main Gauche (Outils)
-Volume 🔊 : Pince le Pouce et l'Index. Écarte pour monter le son, rapproche pour baisser.
+Volume 🔊 : Pince le Pouce et l'Index. Écarte pour monter le son, rapproche pour baisser. (le Volume fonctinne trés mal)
 
 Scroll ↕️ : Lève l'Index et le Majeur (Signe "V"). Bouge la main vers le haut ou le bas pour faire défiler la page.
 
@@ -43,3 +43,5 @@ Scroll ↕️ : Lève l'Index et le Majeur (Signe "V"). Bouge la main vers le ha
 Couper la caméra : Croise les poignets (forme de X) devant la caméra pendant 1 seconde. L'écran devient noir.
 
 Réactiver : Croise les poignets à nouveau.
+
+les poignets peuvent être capricieux.

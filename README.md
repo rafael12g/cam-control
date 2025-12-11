@@ -13,10 +13,12 @@ Ouvre ton terminal (cmd ou powershell) et copie cette commande pour installer to
 
 ```bash
 pip install opencv-python mediapipe pyautogui pycaw comtypes numpy
+```
+
 🚀 Lancer le programme
 Lance le script avec Python :
 
-Bash
+```Bash
 
 python nom_du_script.py
 Appuie sur la touche 'q' pour arrêter le programme.

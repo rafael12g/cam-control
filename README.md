@@ -20,6 +20,8 @@ Bash
 
 python nom_du_script.py
 Appuie sur la touche 'q' pour arrêter le programme.
+```
+
 
 🎮 Guide des Commandes
 L'écran est divisé en deux : Main Droite pour la souris, Main Gauche pour les commandes.

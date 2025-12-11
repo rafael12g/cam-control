@@ -52,3 +52,8 @@ les poignets peuvent être capricieux.
 
 
 c'est projet pour apprendre principalement. 
+
+
+## piano 
+
+pianocam est aussi un projet pour apprendre mieux opcv on peu jouez des notes de piano facile a ajouter ou modifier dans le code.

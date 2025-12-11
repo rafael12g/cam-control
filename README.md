@@ -45,3 +45,10 @@ Couper la caméra : Croise les poignets (forme de X) devant la caméra pendant 1
 Réactiver : Croise les poignets à nouveau.
 
 les poignets peuvent être capricieux.
+
+
+
+# asciicam est un code permettant d'avoir une camera en ascii.
+
+
+c'est projet pour apprendre principalement. 
